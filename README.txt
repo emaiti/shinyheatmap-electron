@@ -1,0 +1,1 @@
+Need to upload node_modules, and R-Portable-Mac and R-Portable-Win (for conversion into Electron app for Mac, Windows respectively)
